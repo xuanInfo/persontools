@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">小工具</string>
+    <!--SplashActivity-->
+    <string name="tv_jump">跳过</string>
+</resources>
